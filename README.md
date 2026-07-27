@@ -26,7 +26,7 @@ Nenhuma das APIs utilizadas exige chave de acesso.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/central-de-consultas.git
+git clone https://github.com/Kaue18-py/central-de-consultas.git
 cd central-de-consultas
 ```
 
